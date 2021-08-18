@@ -11,7 +11,7 @@ class Navbar extends Component {
                     </div>
                 </nav>
                
-                <button type="button" class="btn btn-primary m-4">Reset</button>
+                
             </>
         );
     }
